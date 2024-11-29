@@ -2,9 +2,9 @@ Hello dear visitor,
 
 I am a software engineering student and programmer who mostly interested in game development.
 
-Programming Languages : C#, C++, Python, Java.
+Programming Languages :</br> [![My Skills](https://skillicons.dev/icons?i=cs,cpp,py,java)](https://skillicons.dev)
 
-Tools : VS, VS Code, MinGW, Godot, Unity.
+Tools :</br> [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,godot,blender,notion)](https://skillicons.dev)
 
 Natural Languages : English, Turkish, German.
 
